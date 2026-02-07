@@ -22,3 +22,32 @@ The following data preparation steps were performed:
 - Checked and handled missing values where necessary.
 
 These steps ensure the accuracy and reliabilty of the analysis.
+
+## Analysis Performed
+
+### 1. Monthly Sales Trend
+- Aggregated sales by month to observe changes over time.
+- Visualized trends to identify potential seasonal patterns.
+
+### 2. Sales by Category
+- Analyzed total sales across product categories.
+- Compared category-level performance using bar charts.
+
+### 3. Regional Performance
+- Evaluated total sales by region.
+- Identified regions with stronger and weaker sales activity.
+
+### 4. Top Customers
+- Identified the top 10 customers based on total sales.
+- Highlighted customer concentration and revenue contribution.
+
+### 5. Profit Analysis
+- Compared total profit across product categories.
+- Highlighted the importance of analyzing profitability alongside sales.
+
+## Tools & Technologies
+- Python 3.10
+- pandas
+- matplotlib
+- seaborn
+- Jupyter Notebook (VS Code)
