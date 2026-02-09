@@ -23,4 +23,10 @@ This projet analyzes cusstomer churn data form a telecommunication company to id
 - Business-oriented interspection of results.
 
 ## Key Insights
--
+- Customers on month-to-month contracts show significantly higher churn ratea.
+- Higher monthly charges are associated with increased churn.
+- Customers with shorter tenure are more likely to churn.
+- Long-term contracts are effective in retaining cusotomers.
+
+## Conclusion
+This project demonstrates how customer data can be analyzed to uncover churn patterns and retention risks.The findings can help businesses prioritize retention efforts and improve long-term customer value.
